@@ -1,0 +1,29 @@
+_repo: The-Gospel-of-Evolution--13-From--The-Atheistic-Platform--Twelve-Lectures_36270
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aveling, Edward B.
+    alias: Nelson, Alec
+    birthdate: 1849
+    deathdate: 1898
+    gutenberg_agent_id: '38169'
+    url: http://www.gutenberg.org/2009/agents/38169
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Aveling
+description: ''
+gutenberg_issued: '2011-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36270'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcc 'QH'
+- !lcsh 'Evolution'
+title: "The Gospel of Evolution\r\nFrom \"The Atheistic Platform\", Twelve Lectures"
+url: http://www.gutenberg.org/ebooks/36270
